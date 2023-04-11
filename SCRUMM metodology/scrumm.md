@@ -31,3 +31,46 @@ projekta. Tim dodaje nove funkcionalnosti i zadatke na listu, a stare se izbacuj
 ako se utvrdi da više nisu potrebni ili ako se prioriteti promene. Također, elementi 
 Product Backloga se kontinuirano revidiraju i prilagođavaju kako bi se osiguralo 
 da se projektni ciljevi i prioriteti usklađuju sa zahtjevima klijenta i tržišta.
+# Spirt planning
+Sprint Planning je drugi korak u SCRUM metodologiji, a njegova svrha je 
+planiranje rada za idući sprint. Sprint Planning se sastoji od dva dijela: prvi dio je 
+planiranje ciljeva srinta, a drugi dio je planiranje zadatka koje je potrebno izvršiti 
+kako bi se ti ciljevi postigli.
+U prvom dijelu, Product Owner definira prioritete na Product Backlogu, koji se 
+zatim razmatraju s timom. Tim pregledava prioritete i odlučuje što je realno 
+izvršiti tijekom idućeg sprinta. U ovom dijelu se također razmatraju zahtjevi 
+klijenata, ciljevi projekta i vrijednost koju će funkcionalnosti pružiti klijentima.
+U drugom dijelu, tim detaljno planira zadatke koje će izvršiti tijekom sprinta kako 
+bi postigli ciljeve definirane u prvom dijelu. Tim razmatra različite zadatke i 
+izrađuje plan rada, određujući koje zadatke će izvršiti u kojem redoslijedu, tko će 
+ih izvršiti, koliko će vremena biti potrebno za svaki zadatak i kako će se zadaci 
+međusobno povezati. Ovaj dio može biti vrlo detaljan, uz opisivanje svih koraka 
+potrebnih za izvršenje zadatka.
+Na kraju Sprint Planninga, tim ima jasnu ideju o tome što će raditi tokom sprinta, 
+što se očekuje od njih, što su prioriteti i kako će izvršiti zadatke. Svi članovi tima 
+moraju biti suglasni s ciljevima i planom sprinta prije nego što krenu s izvršenjem 
+zadataka. Ovaj korak je izuzetno važan za uspešan sprint i celokupni projekt.
+Sprint (ciklus rada) je vreme koje je određeno za razvoj određenih 
+funkcionalnosti. U ovom periodu razvojni tim radi na implementaciji 
+funkcionalnosti koje su definisane u Product Backlog-u, pri čemu je cilj svakog 
+sprinta usmeren ka postizanju određenog cilja iz Product Backlog-a. Sprint 
+obično traje između 1 i 4 nedelje.
+Na početku svakog sprinta, tim se sastaje na sastanku planiranja sprinta kako bi 
+se dogovorili o ciljevima i aktivnostima koje će se sprovesti tokom sprinta. Na 
+ovom sastanku tim bira funkcionalnosti koje će se razviti i razrađuje detaljan plan 
+za njihovu realizaciju. Plan treba da bude dovoljno jasan da omogući razvojnom 
+timu da razvije funkcionalnost u skladu sa očekivanjima iu vremenskom okviru 
+sprinta.
+Tokom sprinta, tim radi na implementaciji funkcionalnosti prema planu i 
+koordinira se sa drugim članovima tima kako bi osigurao da su ciljevi sprinta 
+ispunjeni. Tim takođe održava kratke sastanke svakog dana da ažurira napredak 
+i koordinira rad. Ovi sastanci se zovu Daily Scrum, a njihovo trajanje je 
+ograničeno na 15 minuta.
+Na kraju sprinta, tim se sastaje na sastanku pregleda sprinta kako bi 
+demonstrirao funkcionalnost koju su razvili tokom sprinta i prikupio povratne 
+informacije od vlasnika proizvoda i drugih zainteresovanih strana. Uz povratne 
+informacije, tim ocenjuje svoj rad i razmatra šta može da poboljša u sledećem 
+sprintu. Ovaj proces se zove retrospektiva sprinta.
+Sprint se ponavlja sve dok se ne postignu ciljevi definisani u zaostatku proizvoda. 
+Svaki sprint donosi novu funkcionalnost i znanje stečeno tokom sprinta može se 
+primeniti u budućim ciklusima.
