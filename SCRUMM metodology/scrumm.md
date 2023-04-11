@@ -1,4 +1,4 @@
-#Opis i analiza SCRUMM metodologije pomocu ChatGPT-a
+# Description and analysis of SCRUMM methodology using ChatGPT
 Scrum metodologija je agilna metoda upravljanja projektima koja se temelji na 
 iterativnom i inkrementalnom pristupu razvoja softvera. Ova metodologija se 
 primarno koristi u razvoju softvera, ali se također može primeniti i u drugim 
