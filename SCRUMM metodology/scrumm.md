@@ -74,3 +74,41 @@ sprintu. Ovaj proces se zove retrospektiva sprinta.
 Sprint se ponavlja sve dok se ne postignu ciljevi definisani u zaostatku proizvoda. 
 Svaki sprint donosi novu funkcionalnost i znanje stečeno tokom sprinta može se 
 primeniti u budućim ciklusima.
+
+# Sprint Retrospective
+Šta smo dobro uradili? - Tim se fokusira na uspehe tokom prethodnog sprinta.
+Šta smo mogli bolje? - Tim identifikuje oblasti u kojima su se suočili sa 
+poteškoćama ili nisu uspeli da ostvare svoje ciljeve.
+Šta ćemo učiniti drugačije u sledećem sprintu? - Tim donosi odluke šta da uradi 
+da bi se poboljšao u sledećem sprintu.
+Na kraju retrospektive sprinta, tim treba da ima akcioni plan za sledeći sprint. 
+Ovaj plan treba da sadrži konkretne akcije koje će se preduzeti da bi se 
+poboljšao učinak tima u sledećem sprintu.
+Važno je napomenuti da je Retrospektiva Sprinta prilika da tim otvoreno 
+razgovara o svojim poteškoćama i nedostacima, i da zajedno traže rešenja za 
+unapređenje rada. Ovo može dovesti do većeg osećaja timskog duha i podstaći 
+inovativne ideje koje će pomoći daljem razvoju proizvoda.
+Scrum ima za cilj da održi snažnu saradnju između ljudi koji rade na složenim 
+proizvodima, a detalji se menjaju ili dodaju. Zasnovan je na sistematskim 
+interakcijama između tri glavne uloge: Scrum Master, Product Owner (Vlasnik 
+proizvoda) i Scrum tim.
+Scrum Master je centralna figura u projektu. Zato smo i ceo jedan kurs posvetili 
+njemu (Scrum Master kurs). Njegova glavna odgovornost je da eliminiše sve 
+prepreke koje mogu sprečiti tim da efikasno radi. Scrum Master pomaže timu da 
+uradi svoj posao na najbolji mogući način. To podrazumeva organizovanje 
+sastanaka, bavljenje preprekama i izazovima i rad sa vlasnikom proizvoda kako 
+bi se osiguralo da je sve spremno za sledeći sprint. Scrum Master takođe 
+osigurava da tim prati Scrum proces. Nema autoritet nad članovima tima, ali ima 
+autoritet nad postupkom. Na primer, Scrum Master ne može nekome da kaže šta 
+da radi, ali može da predloži novi ritam sprinta.
+PRODUCT OWNER (VLASNIK PROIZVODA) Vlasnik proizvoda je obično kupac 
+ili druga zainteresovana strana. To je neko ko je aktivno uključen u projekat, 
+prenoseći globalnu viziju proizvoda i pružajući blagovremene povratne 
+informacije o poslu obavljenom nakon svakog sprinta. Vlasnik proizvoda fokusira 
+se na poslovne i tržišne zahteve, dajući prioritet svim poslovima koje treba
+obaviti. Upravlja poslom, pruža smernice o tome koje funkcije će se sledeće 
+isporučivati i stupa u interakciju sa timom i ostalim zainteresovanim stranama 
+kako bi bio siguran da svi razumeju stavke iz product backlog-a (lista potrebnih 
+stavki za proizvod – lista zahteva za promene koje treba implementirati). Vlasnik 
+proizvoda nije menadžer projekta. Umesto da upravlja statusom i napretkom, 
+njegov posao je motivisati tim i povezati ih sa ciljem i vizijom.
