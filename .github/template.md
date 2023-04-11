@@ -1,7 +1,10 @@
-### Details 
-First document
+### Summary
+Scrumm metodologija 
+### Details
+
 ### References
-https://openai.com/blog/chatgpt
+https://chat.openai.com/chat
 ### Checks
-- [] Detalji
-- [] Dokumenta
+- [x] Definisanje opstih koraka scrumm metodologije
+- [x] Definisanje metodologije izvrsavanja pojedinih koraka scrumm metodologije
+- [x] Dokumenta za pracenje implementacije scrumm metodologije
