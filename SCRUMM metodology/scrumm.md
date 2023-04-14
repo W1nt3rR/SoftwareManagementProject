@@ -112,3 +112,25 @@ kako bi bio siguran da svi razumeju stavke iz product backlog-a (lista potrebnih
 stavki za proizvod – lista zahteva za promene koje treba implementirati). Vlasnik 
 proizvoda nije menadžer projekta. Umesto da upravlja statusom i napretkom, 
 njegov posao je motivisati tim i povezati ih sa ciljem i vizijom.
+
+# Scrum tim
+Scrum tim je višefunkcionalna i samoorganizujuća grupa ljudi koja je odgovorna
+za primenu proizvoda. Treba da se sastoji od 5 do 7 članova tima, kako bi ostali
+fleksibilni i produktivni. Svi na projektu rade zajedno, pomažu jedni drugima i dele
+osećaj odgovornosti. Za razliku od tradicionalnih razvojnih timova, ne postoje
+različite uloge poput recimo programera ili dizajnera. Svi zajedno završavaju set
+poslova. Scrum tim ima plan za svaki sprint i predviđa koliko posla može da
+završi u svakoj iteraciji. Iako Scrum metodologiju najčešće koriste timovi za
+razvoj softvera, principi i lekcije ove metodologije mogu se primeniti na sve vrste
+timskog rada i mogu pomoći svim timovima koji rade na zajedničkom cilju. To je
+jedan od razloga zašto je Scrum metodologija danas toliko popularna.
+Međutim, Scrum metodologija također ima i neke nedostatke. Jedan od najvećih
+nedostataka je da ova metoda zahtijeva visok stupanj samodiscipline i
+organizacije timova. Također, Scrum metodologija može biti teška za primenu u
+velikim organizacijama, zbog složenosti koja dolazi s upravljanjem velikim
+timovima.
+Konačno, Scrum metodologija može biti vrlo učinkovita u odgovarajućim
+okolnostima. Uspeh ove metodologije ovisi o tome kako se primenjuje i kako se
+prilagođava specifičnim zahtevima projekta. Ako se primieni ispravno, Scrum
+metodologija može rezultirati bržim i učinkovitijim razvojem proizvoda, što je
+izuzetno važno u današnjem konkurentnom poslovnom okruženju.
