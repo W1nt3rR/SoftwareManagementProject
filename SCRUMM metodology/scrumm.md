@@ -75,7 +75,37 @@ Sprint se ponavlja sve dok se ne postignu ciljevi definisani u zaostatku proizvo
 Svaki sprint donosi novu funkcionalnost i znanje stečeno tokom sprinta može se 
 primeniti u budućim ciklusima.
 
+# Sprint Review
+
+Sprint Review je sastanak koji se održava na kraju svakog sprinta u Scrum
+metodologiji. Osnovni cilj ovog sastanka je da tim predstavi realizovane
+funkcionalnosti i proizvode Vlasniku proizvoda, timu i ostalim zainteresovanim
+stranama.
+Na početku sastanka Sprint Review, vlasnik proizvoda predstavlja ciljeve sprinta,
+a zatim tim predstavlja sve što je razvio tokom sprinta. Ovo može uključivati
+demonstraciju nove funkcionalnosti, rešavanje problema ili objašnjenje rada u
+toku.
+Nakon prezentacije, učesnici sastanka daju povratne informacije o obavljenom
+radu, kao i sugestije za dalje unapređenje. Ovo može uključivati pohvale za
+dobro obavljen posao, ali i predloge za poboljšanje ili kritiku ako nešto nije
+funkcionisalo kako je planirano.
+Konačno, vlasnik proizvoda ažurira zaostatak proizvoda kako bi odražavao
+napredak ostvaren u razvoju proizvoda. Ako su ciljevi sprinta postignuti, tim i
+vlasnik proizvoda mogu razmotriti novi set ciljeva za sledeći sprint.
+Sprint Review je važan korak u Scrum metodologiji jer pomaže da se osigura da
+je proizvod razvijen u skladu sa očekivanjima klijenata i korisnika i da se
+kontinuirano poboljšava kako bi se osiguralo da zadovoljava potrebe tržišta
+
 # Sprint Retrospective
+Sprint Retrospective je sastanak koji se održava nakon pregleda sprinta, a pre
+početka sledećeg sprinta. Glavni cilj ovog sastanka je da se tim osvrne na
+prethodni sprint i pronađe načine da unapredi svoj rad u budućnosti.
+Na početku retrospektive sprinta, tim obično pregleda svoje ciljeve za prethodni
+sprint i analizira koliko su uspešno postigli ciljeve. Tim takođe gleda šta nije
+uspelo u sprintu, šta su naučili iz toga i koje su mogućnosti za napredak.
+Nakon toga, tim razmišlja i traži načine da unaprede svoj rad u budućnosti. Ovaj
+deo sastanka obično se fokusira na tri glavna pitanja:
+
 Šta smo dobro uradili? - Tim se fokusira na uspehe tokom prethodnog sprinta.
 Šta smo mogli bolje? - Tim identifikuje oblasti u kojima su se suočili sa 
 poteškoćama ili nisu uspeli da ostvare svoje ciljeve.
