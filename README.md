@@ -3,10 +3,10 @@ This project is about developing a platform to assist people with disabilities i
 
 ## Team
 The project is led by a team of four members:
-Marko Popovic 
-Ramiz Sabovic
-Belma Hot
-Alen Klac
+Marko Popovic <br />
+Ramiz Sabovic <br />
+Belma Hot <br />
+Alen Klac <br />
 Radovan Popadic
 ## Methodology
 The SCRUM methodology is used to develop this platform. This means that the project is developed iteratively, in short cycles (sprints), which allows the team to quickly respond to changes and focus on the most important tasks.
