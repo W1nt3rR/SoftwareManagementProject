@@ -2,7 +2,7 @@
 This project is about developing a platform to assist people with disabilities in learning. The platform will provide support for students with different types of disabilities in the learning process, allowing them access to various content and tools that will help them master the material.
 
 ## Team
-The project is led by a team of four members:
+The project is led by a team of four members: <br />
 Marko Popovic <br />
 Ramiz Sabovic <br />
 Belma Hot <br />
