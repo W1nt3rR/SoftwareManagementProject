@@ -7,7 +7,8 @@ Marko Popovic <br />
 Ramiz Sabovic <br />
 Belma Hot <br />
 Alen Klac <br />
-Radovan Popadic
+Radovan Popadic <br />
+Ilajda Balota
 ## Methodology
 The SCRUM methodology is used to develop this platform. This means that the project is developed iteratively, in short cycles (sprints), which allows the team to quickly respond to changes and focus on the most important tasks.
 
