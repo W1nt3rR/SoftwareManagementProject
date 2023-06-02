@@ -6,7 +6,7 @@ The project is led by a team of four members: <br />
 Marko Popovic <br />
 Ramiz Sabovic <br />
 Belma Hot <br />
-Alen Klac <br />
+Alen Kalac <br />
 Radovan Popadic <br />
 Ilajda Balota
 ## Methodology
