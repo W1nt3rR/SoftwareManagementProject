@@ -13,6 +13,7 @@ function App() {
       <div className='row'>
         <Heder />
         <Home />
+        
       </div>
     </div>
   );
