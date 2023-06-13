@@ -42,3 +42,7 @@
 .linkButton:hover{
     color: blue;
 }
+.Donate:hover{
+    color: #fff;
+    background-color: #00a8fd;
+}
